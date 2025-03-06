@@ -39,6 +39,10 @@ The website employs the Catppuccin Mocha color scheme, creating a visually appea
 - Mobile-first approach
 - Progressive enhancement principles
 
+## Live Demo
+
+Visit the live site at: [https://themany172.github.io/Feminism-Blog---Concept-piece](https://themany172.github.io/Feminism-Blog---Concept-piece)
+
 ## Note
 
 This is a concept piece created for educational and demonstration purposes. All content and images are placeholder and sourced from free stock photo websites. 
